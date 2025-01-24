@@ -16,6 +16,7 @@
 
 /*
 TODO: support to mqtt to connect with home assistant
+TODO: update README.md
 */
 
 #include <Wire.h>
