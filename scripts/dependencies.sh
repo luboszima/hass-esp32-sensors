@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # install dependencies on macos
-# older scrip from: https://raw.githubusercontent.com/luboszima/infrastructure/refs/heads/feat/init/scripts/dependencies.sh?token=GHSAT0AAAAAACZNBQIJQD3WQ3LEBRFGINWEZZ7LP5Q
+# older script from: https://raw.githubusercontent.com/luboszima/infrastructure/refs/heads/feat/init/scripts/dependencies.sh?token=GHSAT0AAAAAACZNBQIJQD3WQ3LEBRFGINWEZZ7LP5Q
 
 SCRIPT_NAME=$(basename "$0" | sed "s/\./_/")
 LOG_FILE="/tmp/${SCRIPT_NAME}.log"
